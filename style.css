@@ -1,0 +1,23 @@
+body{
+    height: 100%;
+    background-color: blue;
+    margin: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+*{
+    box-sizing: border-box;
+}
+
+.main{
+    border: 1px solid violet;
+    height: 800px;
+    width: 750px;
+    display: flex;
+    
+}
+
